@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-04_2126",
+    "name": "Organika",
     "currentPage": "index.html",
     "theme": {
       "name": "lightamp",
@@ -38,7 +38,14 @@
     "siteFonts": [],
     "uniqCompNum": 33,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
